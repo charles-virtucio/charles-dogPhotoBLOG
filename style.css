@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;   
+   }
+   body{
+       background-color:rgb(60, 255, 223);
+       text-align: center;
+   }
+   .section1{
+       background-image: url();
+   }
+   
+   h1{
+       background-color:rgb(211, 255, 78);
+   }
